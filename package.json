@@ -1,0 +1,9 @@
+{
+  "name": "@georgelee31033/grgltea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@georgelee31033",
+  "repository": "https://github.com/georgelee31033/grgltea.git",
+  "license": "MIT"
+}
